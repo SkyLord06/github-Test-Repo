@@ -6,3 +6,5 @@ git push origin branch-name
 git pull
 git init
 git remote add origin
+git branch
+git branch -M new-name-of-branch
