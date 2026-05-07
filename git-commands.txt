@@ -8,3 +8,5 @@ git init
 git remote add origin
 git branch
 git branch -M new-name-of-branch
+git branch -a
+git checkout branch-name
