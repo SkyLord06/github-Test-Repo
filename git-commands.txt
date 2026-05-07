@@ -1,6 +1,8 @@
 git clone link
 git status
-git add filename
+git add filename or .
 git commit -m "message"
 git push origin branch-name
 git pull
+git init
+git remote add origin
