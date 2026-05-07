@@ -10,3 +10,4 @@ git branch
 git branch -M new-name-of-branch
 git branch -a
 git checkout branch-name
+git merge target-branch-name
